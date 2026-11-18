@@ -104,6 +104,39 @@
       "kind": "thumbnail",
       "width": 640,
       "height": 360
+    },
+    {
+      "path": "video/human-factory-trailer-1080p.mp4",
+      "bytes": 15514291,
+      "sha256": "28cb899b1a6c0c8f424456f80addc2127a2b35fed5fd3e96b6264a5fbfe2122d",
+      "kind": "video",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "duration": 28.0,
+      "codec": "h264",
+      "audio": false,
+      "caption": "Trailer: title card, captioned gameplay, end card"
+    },
+    {
+      "path": "video/human-factory-trailer-720p.mp4",
+      "bytes": 6965655,
+      "sha256": "fd6678ffbb510a0bbf5c227b21d529c0db23b438fa1ad6b93b7c27807b955e50",
+      "kind": "video",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "duration": 28.0,
+      "codec": "h264",
+      "audio": false
+    },
+    {
+      "path": "trailer-poster.jpg",
+      "bytes": 150473,
+      "sha256": "d7936a766608dc88478c6dbf0b68bab6c57c838807e258e2c5c47b13a378e9bb",
+      "kind": "poster",
+      "width": 1920,
+      "height": 1080
     }
   ]
 }
