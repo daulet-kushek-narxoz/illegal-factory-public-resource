@@ -1,0 +1,109 @@
+{
+  "game": "HUMAN FACTORY",
+  "version": "0.10.0",
+  "sourceCommit": "1c48c80681e3c3fb51921eec675cb768af967aca",
+  "captured": "2026-11-18",
+  "capture": "in-game scripted flythrough (-hf-showcase), Windows release build, 1920x1080 at 30 fps, no HUD in the video",
+  "files": [
+    {
+      "path": "poster.jpg",
+      "bytes": 263837,
+      "sha256": "8eb763e5a3e12bc8517b3e31cbbe14e0e0ab9d7e6a8e9e3b353cfc9f61cb3cbe",
+      "kind": "poster",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "video/human-factory-showcase-1080p.mp4",
+      "bytes": 12406356,
+      "sha256": "bec20fe5f6a3452aa58fed74725031266b3ebd925cb286399188ebf6dd491651",
+      "kind": "video",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "duration": 20.0,
+      "codec": "h264",
+      "audio": false
+    },
+    {
+      "path": "video/human-factory-showcase-720p.mp4",
+      "bytes": 5213392,
+      "sha256": "b2bd3c78f6a877421a7d147ddbc29ec9898bcd4a7202038145abf620d1d5ef8d",
+      "kind": "video",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "duration": 20.0,
+      "codec": "h264",
+      "audio": false
+    },
+    {
+      "path": "photo/photo-01-hud.jpg",
+      "bytes": 653214,
+      "sha256": "6d9c2a3383a82070f2b9649dcc7317069172a27ee092be405c5faf806ae00c5d",
+      "kind": "photo",
+      "width": 1920,
+      "height": 1080,
+      "caption": "In-game view with the paperwork HUD"
+    },
+    {
+      "path": "photo/photo-02-hall.jpg",
+      "bytes": 618815,
+      "sha256": "0681239978afd736062e1048805a1c85d15d561e180c3b3c80f3ef915f22dda6",
+      "kind": "photo",
+      "width": 1920,
+      "height": 1080,
+      "caption": "The production hall, Units at work"
+    },
+    {
+      "path": "photo/photo-03-printer.jpg",
+      "bytes": 599046,
+      "sha256": "73953c3a056f1c6935930250c1b3b2c0b6b7bde35b7242dca5c10ec218b11831",
+      "kind": "photo",
+      "width": 1920,
+      "height": 1080,
+      "caption": "A finished Unit on the conveyor"
+    },
+    {
+      "path": "photo/photo-04-assembler.jpg",
+      "bytes": 570814,
+      "sha256": "6e859b027b7735a3f8eb436c5adb3714ea99036799e0d6d8f5400f7bb0c91771",
+      "kind": "photo",
+      "width": 1920,
+      "height": 1080,
+      "caption": "The assembly gate and robot arm"
+    },
+    {
+      "path": "thumb/thumb-01-hud.jpg",
+      "bytes": 42095,
+      "sha256": "51b87601858f794c3da19c9abb823f04ca504860ba310fe4499487f48fc1ebf8",
+      "kind": "thumbnail",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "path": "thumb/thumb-02-hall.jpg",
+      "bytes": 36814,
+      "sha256": "42e52283783f7460262e82c08f8d9d3a9552cae62140cd6ec10f141768afd13a",
+      "kind": "thumbnail",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "path": "thumb/thumb-03-printer.jpg",
+      "bytes": 38500,
+      "sha256": "1dff3f0162cab75e36ad31bc2de219e1c3e0faf72d65cead589e5ec9a6bebdde",
+      "kind": "thumbnail",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "path": "thumb/thumb-04-assembler.jpg",
+      "bytes": 30900,
+      "sha256": "057ad6ed33749741cc5e469dd32c81a534bcb3eb9d55ae11dc1f72e1c6d06c68",
+      "kind": "thumbnail",
+      "width": 640,
+      "height": 360
+    }
+  ]
+}
